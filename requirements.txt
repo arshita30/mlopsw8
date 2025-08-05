@@ -1,0 +1,7 @@
+ipykernel
+dvc[gs]
+pandas
+scikit-learn
+mlflow
+matplotlib
+pytest
